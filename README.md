@@ -1,2 +1,2 @@
 #  java8lamda
-Code in this projec is for the Java lamda excercise. 
+Code in this proct is for the Java8 lamda excercise. 
